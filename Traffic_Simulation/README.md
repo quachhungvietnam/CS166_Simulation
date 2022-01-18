@@ -7,5 +7,5 @@ One of the results from my simulation:
 
 
 <p align="center">
-  <img width="400" height="300" src="Results/one_two_three_lane_compare.png">
+  <img width="800" height="600" src="Results/one_two_three_lane_compare.png">
 </p>
